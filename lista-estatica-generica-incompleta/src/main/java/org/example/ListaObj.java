@@ -25,7 +25,7 @@ public class ListaObj <T> {
     // Se a lista estiver cheia usar IllegalStateException();
     public void adiciona(T elemento) {
         if(nroElem == vetor.length){
-            throw new IllegalStateException("Lista cheira");
+            throw new IllegalStateException("Lista cheia");
         }else{
             this.vetor[nroElem++] = elemento;
         }

@@ -21,5 +21,10 @@ public class Main {
         System.out.println(lista.removePeloIndice(2));
 
         lista.exibe();
+
+        System.out.println(lista.contaOcorrencias(4));
+        lista.adicionaNoInicio(10);
+        lista.substituirPorElemento(3, 15);
+        lista.exibe();
     }
 }
