@@ -1,0 +1,7 @@
+00NOTA2023202-10-2023 19:50:5001
+02CCO  02221000Maria Eduarda                                     Programacao Web                         08,00007
+02CCO  02211000Abner Biscassi                                    Estrutura de Dados                      07,50010
+02ADS  01231015Jose da Silva                                     Sistemas Operacionais                   10,00005
+02SIS  03231030Ana Beatriz                                       Analise de Requisitos                   07,25015
+02REDES04232020Mario Sousa                                       Cabeamento Estruturado                  08,25008
+010000000005

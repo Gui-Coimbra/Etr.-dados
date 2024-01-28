@@ -1,0 +1,4 @@
+00NOTA2023215-10-2023 21:08:4901
+02Neymar                                            psg       Brasileirotrue40,00045
+02Messi                                             barcelombrArgentino false80,00065
+010000000002
